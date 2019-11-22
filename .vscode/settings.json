@@ -1,0 +1,15 @@
+{
+  "window.zoomLevel": 0,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": true,
+  "go.useLanguageServer": true,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "files.autoSave": "afterDelay",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.minimap.enabled": false,
+  //   "workbench.colorTheme": "Material Dark",
+  "terminal.integrated.fontSize": 12
+}
